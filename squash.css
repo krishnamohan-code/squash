@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+canvas{
+    margin-top: 50px;
+    margin-left: 350px;
+    /* border: 2px solid yellow; */
+    border-left:2px solid red;
+
+}
+body{
+    background: dimgray;
+}
